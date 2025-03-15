@@ -1,8 +1,17 @@
 # The recipe for a successful movie
-**Link for the data story:** [https://ferioliste.github.io/theblockbusters-datastory/](https://ferioliste.github.io/theblockbusters-datastory/)
 
-### Abstract
 The goal of this project is to explore the factors that contribute to a film's success. First, we argue what success really means in the context of the film industry, considering multiple dimensions such as the box office revenue, the critical acclaim, and the ROI. We then examine a range of factors that may influence these success metrics, including genres, casts' composition, production companies and country of origin. In some cases go beyond simple correlation and establish causal relationships between these factors and movie success. This approach helps us identify elements that truly impact a film’s performance rather than coincidental associations. Finally, we consolidate our findings into two comprehensive models that illustrate how different aspects contribute together to a film's success.
+
+The project was developed for the course "Applied Data Analysis" at EPFL in the academic year 2024-2025, fall semester.
+
+Check out the final datastory here: [https://ferioliste.github.io/theblockbusters-datastory/](https://ferioliste.github.io/theblockbusters-datastory/).
+
+### Authors
+- Stefano Ferioli ([@ferioliste](https://github.com/ferioliste))
+- Francesco Bellotto ([@francescobellotto-epfl](https://github.com/francescobellotto-epfl))
+- Luca Pisoni ([@luca-pisoni](https://github.com/luca-pisoni))
+- Mouhamad Rawas ([@mourawas](https://github.com/mourawas))
+- Hugo Lagergren ([@Hugolaagggg](https://github.com/Hugolaagggg))
 <br><br>
 
 ### Research questions
