@@ -6,6 +6,8 @@ The project was developed for the course "Applied Data Analysis" at EPFL in the 
 
 Check out the final datastory here: [https://ferioliste.github.io/theblockbusters-datastory/](https://ferioliste.github.io/theblockbusters-datastory/).
 
+Final grade: 6/6
+
 ### Authors
 - Stefano Ferioli ([@ferioliste](https://github.com/ferioliste))
 - Francesco Bellotto ([@francescobellotto-epfl](https://github.com/francescobellotto-epfl))
